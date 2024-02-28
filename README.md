@@ -1,2 +1,2 @@
 # vudnuk.github.io
-Website
+Personal site (for now)
